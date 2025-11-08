@@ -18,7 +18,7 @@ let currentChatId = 'default';
 let chatCounter = 1;
 const config = require('./config');
 const API_KEY = config.getAPIKey();
-const BASE_URL = config.getBaseURL();
+const BASE_URL = "api.aitunnel.ru";
 
 
 function makeRequest(userMessage) {
