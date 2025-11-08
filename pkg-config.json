@@ -1,0 +1,4 @@
+{
+  "scripts": "terminal.js",
+  "assets": ["node_modules/**/*"]
+}
